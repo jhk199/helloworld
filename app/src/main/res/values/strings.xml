@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="button_hello">Say Hi</string>
+    <string name="button_count_up">Count up</string>
+    <string name="button_count_down">Count down</string>
+    <string name="texView_count">0</string>
+    <string name="toast_message">Hello!</string>
+    <string name="second_activity">Second Activity</string>
 </resources>
